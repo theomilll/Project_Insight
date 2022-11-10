@@ -3,7 +3,7 @@
 Project Insight's main goal is to assist people with visual disabilities, so that they can achieve a more independent lifestyle.
 
 Our prototype consists of a headband attached to a Arduino board, it detects nearby walls with the use of proximity sensors and alerts the user by ringing
-micro vibration motors that are pointing to the general direction of the detected object. The intensity of the vibrations will be
+micro vibration motors that are pointing to the general direction of the detected object. The intensity of the vibrations is
 determined by how close the user is to the detected wall.
 
 This is the code used for the prototype.
